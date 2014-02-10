@@ -230,3 +230,7 @@ require_once 'path/to/lib/Faultier/FileUpload/Autoloader.php';
 Faultier\FileUpload\Autoloader::register();
 ?>
 ```
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/ojhaujjwal/php-file-upload/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
